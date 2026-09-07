@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam currently doing intership as data analyst<br>with excel,python,power bi,tabluea,sql,machine learning<br>
+
 
 
 ## 🌐 Socials:
